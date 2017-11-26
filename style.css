@@ -1,0 +1,75 @@
+<body> {
+  background: lightblue;
+  text-align: center;
+}
+
+<p> {
+  margin: 0;
+}
+
+snowball {
+  border: 3px solid black;
+  background-color: white;
+}
+
+hat-bottom {
+  width: 100px;
+  background-color: black;
+  margin: 0 auto;
+}
+
+hat-top {
+  background: black;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+top {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  margin: 0 auto;
+}
+
+eye {
+  width: 10px;
+  height: 10px;
+  background: black;
+  margin: 10px;
+  display: inline-block;
+}
+
+nose {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-left: 20px solid orange;
+  border-bottom: 10px solid transparent;
+  margin: 0 auto;
+}
+
+smile {
+  border-bottom: 5px solid black;
+  width: 50px;
+  border-radius: 100px;
+  margin: 0 auto;
+}
+
+middle {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  margin: 0 auto;
+}
+
+bottom {
+  width: 300px;
+  height: 300px;
+  border-radius: 300px;
+  margin: 0 auto;
+}
+
+text {
+  color: transparent;
+}
